@@ -1,4 +1,4 @@
-Ruth Mraa
+Ruth Moraa
 # Cookie-recipe
 
 ##### By Ruth Moraa 
