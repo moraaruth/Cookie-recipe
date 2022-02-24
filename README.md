@@ -7,7 +7,6 @@ Ruth Moraa
 ## Table of Content
 
 + [Descrption](Description)
-+ [Installation Requirement](#Installation)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
 + [Licence](#licence)
@@ -22,8 +21,6 @@ Ruth Moraa
 * Either a computer,phone,tablet or an Ipad
 
 * An access to the Internet
-
-### Installation Process
 
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
