@@ -57,4 +57,4 @@ SOFTWARE.
 
 Slack Profile - [Ruth Moraa](https://app.slack.com/client/T0101L740P4/D033AKM6RR7)
 
-Linked - [Ruth Moraa](https://www.linkedin.com/Ruth)
+LinkedIn - [Ruth Moraa](https://www.linkedin.com/Ruth)
